@@ -4,7 +4,11 @@ Html, Bootstrap ve Javascript kullanılarak oluşturuldu.
 
 
 Ekran Videosu:
-https://github.com/user-attachments/assets/c883abaf-e96d-4a9c-8504-1be6a6968db4
+
+
+https://github.com/user-attachments/assets/abd45776-e797-49d7-a550-9c981cad7505
+
+
 
 
 
