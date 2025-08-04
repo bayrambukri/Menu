@@ -5,8 +5,8 @@ Html, Bootstrap ve Javascript kullanılarak oluşturuldu.
 
 Ekran Videosu:
 
+![Animation](https://github.com/user-attachments/assets/52d1bc30-1c65-430c-b933-34f2cb8e3826)
 
-https://github.com/user-attachments/assets/abd45776-e797-49d7-a550-9c981cad7505
 
 
 
